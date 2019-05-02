@@ -19,4 +19,4 @@ public:
     }
 };
 ```
-Use map/unordered_map to store the <number,its index+1>. If key-value pairs' v is 0, the key doesn't appear in the vector. The unordered_map is kind of a hash table. Then traverse the vector and look for $target-number$ in the map.
+Use map/unordered_map to store the <number,its index+1>. If key-value pairs' v is 0, the key doesn't appear in the vector. The unordered_map is kind of a hash table. Then traverse the vector and look for $ target-number $ in the map.
