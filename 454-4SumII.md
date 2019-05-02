@@ -1,5 +1,5 @@
 # 454 4Sum II
-```
+```C++
 class Solution {
 public:
     int fourSumCount(vector<int>& A, vector<int>& B, vector<int>& C, vector<int>& D) {
@@ -26,4 +26,4 @@ public:
 
 Very similar to Two Sum. Merge A, B and store them in a vector. Merge C, D and store them in a map/unordered map. Try to find $0-number$ in the map.
 
-The difference between map and unordered_map is that the former is organized as a balanced binary tree while the latter is a hash table. So unordered_map has better perfformance.
+The difference between map and unordered_map is that the former is organized as a balanced binary tree while the latter is a hash table. So unordered_map has better performance.
