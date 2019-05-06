@@ -9,7 +9,7 @@ Currently, I am doing Top Interview Questions.
 
 15-3Sum
 
-16-3Sum Closest(No solution, similar to 3Sun)
+16-3Sum Closest(No solution, similar to 3Sum)
 
 454-4Sum II
 
