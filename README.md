@@ -9,8 +9,10 @@ Currently, I am doing Top Interview Questions.
 
 15-3Sum
 
+16-3Sum Closest
+
 454-4Sum II
 
 ## Doing
-16-3Sum Closest
+
 18-4Sum
