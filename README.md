@@ -19,6 +19,4 @@ Currently, I am doing Top Interview Questions.
 
 ## Doing
 
-practice git
-
 18-4Sum
