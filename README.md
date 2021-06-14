@@ -20,6 +20,3 @@ Currently, I am doing Top Interview Questions.
 ## Doing
 
 18-4Sum
-
-test
-
